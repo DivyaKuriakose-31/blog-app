@@ -19,5 +19,6 @@ A modern, responsive blog application built with Next.js, featuring Server-Side 
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 4. **Open**[http://localhost:3000].
-5.**Live Demo**: [https://blog-app-blond-sigma.vercel.app/] 
+5. **Live Demo**: [[https://blog-app-blond-sigma.vercel.app/](https://blog-app-29z5.vercel.app/)] 
+
 A modern, responsive blog application built with Next.js...
